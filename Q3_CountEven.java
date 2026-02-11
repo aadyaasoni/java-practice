@@ -1,5 +1,5 @@
 import java.util.*;
-public class Q3_Practice {
+public class Q3_CountEven {
     public static void main(String[]args){
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
